@@ -12,10 +12,14 @@ def home_screen():
     col1, col2 = st.columns(2) 
 
     with col1: 
+        st.header("I'm Teacher")
+        st.image(" ", width=120)
         if st.button('Teacher Portal'): 
             st.session_state['login_type'] = 'teacher'
             st.rerun()  # since wapas rerun karna padega since new screen load karna hai 
     with col2: 
+        st.header("I'm Student")
+        st.image(" ", width=120)
         if st.button('Student Portal'): 
             st.session_state['login_type'] = 'student'
             st.rerun() 

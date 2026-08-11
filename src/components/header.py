@@ -2,7 +2,7 @@ import streamlit as st
 
 def header_home(): # header for home screen
 
-    logo_url = 'PROJECTS/assets/logo3.png'
+    logo_url = 'https://github.com/Shivam5760/biometric_dual_identity_verification/blob/main/assets/logo3.png?raw=true'
 
     st.markdown(f"""
         <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; margin-bottom:30px; margin-top:30px">
