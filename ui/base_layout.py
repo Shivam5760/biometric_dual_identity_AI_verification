@@ -7,6 +7,15 @@ def style_background_home() :
                         .stApp{
                                 background: #b89bf2 !important 
                                 }
+                        .stApp div[data-testid="stColumn"]{
+
+                            background-color:#e3dab7 !important;
+
+                            padding:2.5rem !important;
+
+                            border-radius:5rem !important}
+
+                </style>
                 </style>
     
     """,unsafe_allow_html=True)
