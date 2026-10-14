@@ -1,0 +1,38 @@
+#818bf7
+#a29bf2
+#ac81f7
+#b89bf2    -----------------------------------------------used 
+#e0e3ff     ----------------------------------used opposite to above for brighter tone
+#cccdf0
+
+# red 
+#f29b9b
+#f2c99b
+
+# blue
+#9bb7f2
+#9bccf2
+
+# green 
+#9bf2c1
+
+# yellow 
+#4a9f84
+#efdf97
+#f2e29b #--------------------------------------------------used 
+#f1f29b
+#eeef8f
+
+
+
+# fonts 
+Rubik Spray Paint --------  <style>
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&family=Rubik+Spray+Paint&family=Special+Elite&family=VT323&display=swap');
+</style>
+
+Bitcount Prop Single----------  , vt323 --------
+caveat, shadowns into light
+pacifico
+lobster
+special elite --------
+creepster 
