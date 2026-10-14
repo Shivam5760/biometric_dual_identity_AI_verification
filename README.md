@@ -20,7 +20,7 @@ A multi-modal biometric identity verification and automated attendance processin
 - **Frontend & UI:** Streamlit, PIL (Pillow), Custom HTML/CSS Components
 - **Computer Vision & AI:** `dlib`, `face_recognition_models`, `OpenCV`, `scikit-learn` (SVC)
 - **Audio Processing:** `resemblyzer`, `librosa`
-- **Backend & Database:** Python, Supabase, `bcrypt`
+- **Backend & Database:** Python, PostgreSQL, Supabase, `bcrypt`
 
 ---
 ## 🧠 How It Works
